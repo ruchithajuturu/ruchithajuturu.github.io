@@ -3,11 +3,10 @@
 
 **Live site:** [ruchithajuturu.github.io](https://ruchithajuturu.github.io/)
 
-![Portfolio preview](preview.png)
 
 ## About
 
-This site showcases my experience, technical stack, and data engineering projects — including pipelines and analytics work built with Python, PySpark, SQL, and cloud tools (AWS, Snowflake, Airflow).
+This site showcases my experience, technical stack, and data engineering & data analyst projects — including pipelines and analytics work built with Python, PySpark, SQL, and cloud tools (AWS, Snowflake, Airflow).
 
 ## Sections
 
